@@ -8,7 +8,7 @@
 
 <br />
 
-![Faraaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefaraazkhan&show_icons=true&theme=radical&title_color=fff)
+![Faraaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefaraazkhan&show_icons=true&theme=radical&title_color=fff&count_private=true)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
