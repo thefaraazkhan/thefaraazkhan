@@ -1,4 +1,4 @@
-### Hi there 👋  <a href="https://twitter.com/f4raaz" target="_blank">I'm Faraaz.</a>
+### Hi there 👋  <a href="https://twitter.com/zaaaraf" target="_blank">I'm Faraaz.</a>
 
 <!-- <br /> -->
 
