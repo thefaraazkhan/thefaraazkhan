@@ -3,7 +3,7 @@
 <!-- <br /> -->
 
 ### About Me 🚀
-🎓 I’ve recently completed Bachelors in Computer Engineering from <a href="https://ternaengg.ac.in/" target="_blank">Terna Engineering College</a> . </br>
+🎓 I’ve recently completed Bachelors in Computer Engineering from <a href="https://ternaengg.ac.in/" target="_blank">Terna Engineering College.</a> </br>
 👨‍💻 Currently looking for new opportunities. </br>
 
 <br />
