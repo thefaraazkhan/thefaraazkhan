@@ -2,7 +2,13 @@
 
 ## A Full Stack Developer.
 
-I'm a Computer Engineering graduate and an enthusiastic Full Stack Web developer, Check out all my projects at [github.com/thefaraazkhan](https://github.com/thefaraazkhan) to learn more about what I do!
+<p>I'm a Computer Engineering graduate and an enthusiastic Full Stack Web developer, Check out all my projects  <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank"> <img src="http://img.shields.io/badge/-here-000000?style=flat&logo=oop&logoColor=FFFFFF"> </a>  to learn more about what I do!</p>
+</br>
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" /></a>
+<a href="https://linkedin.com/in/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" /></a>
+</p>
 
 <!-- - 🚀 I'm currently looking for new opportunities.
 - 🧠 I'm learning ReactJs, NextJS, TypeScript.
@@ -10,18 +16,13 @@ I'm a Computer Engineering graduate and an enthusiastic Full Stack Web developer
 - 🌍 I'm based in India
 - 🖥️ See my portfolio at [faraaz.netlify.app](https://faraaz.netlify.app/) -->
 
-
+<h3 align="left">🚀 Some Stats:</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefaraazkhan&theme=github_dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefaraazkhan&theme=tokyonight-duo" /> 
 <img src="https://github-readme-stats.vercel.app/api?username=thefaraazkhan&show_icons=true&locale=en&theme=github_dark" /> 
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thefaraazkhan" /> -->
  <img src="https://komarev.com/ghpvc/?username=thefaraazkhan&style=for-the-badge" /> 
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" /></a>
-<a href="https://linkedin.com/in/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" /></a>
-</p>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
