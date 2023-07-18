@@ -22,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thefaraazkhan&show_icons=true&locale=en&theme=github_dark" /> 
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thefaraazkhan" /> -->
  <img src="https://komarev.com/ghpvc/?username=thefaraazkhan&style=for-the-badge" /> 
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thefaraazkhan" />
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
