@@ -3,7 +3,7 @@
 ## A Full Stack Developer.
 
 <p>I'm a Computer Engineering graduate and an enthusiastic Full Stack Web developer, Check out all my projects  <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank"> <img src="http://img.shields.io/badge/-here-000000?style=flat&logo=oop&logoColor=FFFFFF"> </a>  to learn more about what I do!</p>
-</br>
+
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" /></a>
