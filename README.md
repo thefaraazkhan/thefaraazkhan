@@ -1,8 +1,8 @@
-# Hi 👋, My name is Faraaz
+# Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, My name is Faraaz
+# <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23261722/259143467-f1f3da1e-15b8-4328-a9b7-7dfbf54accb7.png">
 
-## A Full Stack Developer.
 
-<p>I'm a Computer Engineering graduate and an enthusiastic Full Stack Web developer, Check out all my projects  <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank"> <img src="http://img.shields.io/badge/-here-000000?style=flat&logo=oop&logoColor=FFFFFF"> </a>  to learn more about what I do!</p>
+## <p>I'm a Computer Engineer and an enthusiastic Full Stack Web developer, Check out all my projects  <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank"> <img src="http://img.shields.io/badge/-here-000000?style=flat&logo=oop&logoColor=FFFFFF"> </a>  to learn more about what I do!</p>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
@@ -16,13 +16,24 @@
 - 🌍 I'm based in India
 - 🖥️ See my portfolio at [faraaz.netlify.app](https://faraaz.netlify.app/) -->
 
-<h3 align="left">🚀 Some Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefaraazkhan&theme=github_dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thefaraazkhan&theme=tokyonight-duo" /> 
-<img src="https://github-readme-stats.vercel.app/api?username=thefaraazkhan&show_icons=true&locale=en&theme=github_dark" /> 
+<h3 align="left">🚀 Stats:</h3>
+<img src="https://github-readme-stats-two-bay-27.vercel.app/api/top-langs/?username=thefaraazkhan&langs_count=8&theme=github_dark" />
+<img src="https://komarev.com/ghpvc/?username=thefaraazkhan&style=for-the-badge" /> 
+ 
+ <details>
+<summary>:eyes: More Stats</summary>
+
+![Faraaz's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=thefaraazkhan&layout=compact)
+<br>
+![Faraaz's WakaTime Stats](https://github-readme-streak-stats.herokuapp.com/?user=thefaraazkhan&theme=tokyonight-duo)
+<br>
+
+</details>
+
+<!-- <img src="https://github-readme-stats-two-bay-27.vercel.app/api?username=thefaraazkhan&show_icons=true&locale=en&theme=github_dark&rank_icon=percentile" /> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefaraazkhan&theme=tokyonight-duo" />  
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thefaraazkhan" /> -->
- <img src="https://komarev.com/ghpvc/?username=thefaraazkhan&style=for-the-badge" /> 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=thefaraazkhan" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thefaraazkhan" /> -->
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
