@@ -1,13 +1,15 @@
-# Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, My name is Faraaz
+# Hi <img src="https://media.tenor.com/fXyb9Mq0orgAAAAi/greet-hand-wave.gif" width="60">, My name is Faraaz
 # <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23261722/259143467-f1f3da1e-15b8-4328-a9b7-7dfbf54accb7.png">
 
 
-## <p>I'm a Computer Engineer and an enthusiastic Full Stack Web developer, Check out all my projects  <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank"> <img src="http://img.shields.io/badge/-here-000000?style=flat&logo=oop&logoColor=FFFFFF"> </a>  to learn more about what I do!</p>
+### <p>I'm a Computer Engineer and an enthusiastic Full Stack Web developer, Check out all my projects  <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank"> <img src="http://img.shields.io/badge/-here-000000?style=flat&logo=oop&logoColor=FFFFFF"> </a>  to learn more about what I do!</p>
+
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" /></a>
 <a href="https://linkedin.com/in/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" /></a>
+<!-- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh0aHY3Y200MWQwM2Nzd2Z5djVmZnAzcGRqZWZieXBqMnZ3cDNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="500"> -->
 </p>
 
 <!-- - 🚀 I'm currently looking for new opportunities.
@@ -15,6 +17,8 @@
 - ⚡ I love JavaScript.
 - 🌍 I'm based in India
 - 🖥️ See my portfolio at [faraaz.netlify.app](https://faraaz.netlify.app/) -->
+
+
 
 <h3 align="left">🚀 Stats:</h3>
 <img src="https://github-readme-stats-two-bay-27.vercel.app/api/top-langs/?username=thefaraazkhan&langs_count=8&theme=github_dark" />
