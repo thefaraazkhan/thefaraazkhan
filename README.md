@@ -2,13 +2,18 @@
 # <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23261722/259833441-ca0763ac-b896-458c-aa79-2344e6c3cbb1.gif">
 
 
-### <p>I'm a Computer Engineer and an enthusiastic Full Stack Web developer, Check out all my projects  <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank"> <img src="http://img.shields.io/badge/-here-000000?style=flat&logo=oop&logoColor=FFFFFF"> </a>  to learn more about what I do!</p>
+### <p>I'm a Computer Engineer and an enthusiastic Full Stack Web developer, Check out all my projects here <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank">&nbsp;<img src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/link-512.png" width="20">&nbsp;</a>  to learn more about what I do!</p>
 
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" /></a>
+&nbsp;
 <a href="https://linkedin.com/in/zaaaraf" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" /></a>
+&nbsp;
+<a href="https://www.instagram.com/thefaraazkhan/" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-512.png" /></a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_20-reddit-512.png" /></a>
 <!-- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh0aHY3Y200MWQwM2Nzd2Z5djVmZnAzcGRqZWZieXBqMnZ3cDNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="500"> -->
 </p>
 
