@@ -1,5 +1,5 @@
 # Hi <img src="https://media.tenor.com/fXyb9Mq0orgAAAAi/greet-hand-wave.gif" width="60">, My name is Faraaz
-# <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23261722/259143467-f1f3da1e-15b8-4328-a9b7-7dfbf54accb7.png">
+# <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23261722/259833441-ca0763ac-b896-458c-aa79-2344e6c3cbb1.gif">
 
 
 ### <p>I'm a Computer Engineer and an enthusiastic Full Stack Web developer, Check out all my projects  <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank"> <img src="http://img.shields.io/badge/-here-000000?style=flat&logo=oop&logoColor=FFFFFF"> </a>  to learn more about what I do!</p>
