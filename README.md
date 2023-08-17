@@ -26,7 +26,7 @@
 
 
 <h3 align="left">🚀 Stats:</h3>
-<img src="https://github-readme-stats-two-bay-27.vercel.app/api/top-langs/?username=thefaraazkhan&langs_count=8&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefaraazkhan&langs_count=8&theme=github_dark" />
 <img src="https://komarev.com/ghpvc/?username=thefaraazkhan&style=for-the-badge" /> 
  
  <details>
