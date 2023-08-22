@@ -13,7 +13,7 @@
 &nbsp;
 <a href="https://www.instagram.com/thefaraazkhan/" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-512.png" /></a>
 &nbsp;
-<a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_20-reddit-512.png" /></a>
+<!-- <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_20-reddit-512.png" /></a> -->
 <!-- <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh0aHY3Y200MWQwM2Nzd2Z5djVmZnAzcGRqZWZieXBqMnZ3cDNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="500"> -->
 </p>
 
