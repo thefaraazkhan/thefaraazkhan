@@ -1,8 +1,6 @@
 # Hi <img src="https://media.tenor.com/fXyb9Mq0orgAAAAi/greet-hand-wave.gif" width="60">, My name is Faraaz
-# <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23261722/259833441-ca0763ac-b896-458c-aa79-2344e6c3cbb1.gif">
-
-
-### <p>I'm a Computer Engineer and an enthusiastic Full Stack Web developer, Check out all my projects here <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank">&nbsp;<img src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/link-512.png" width="20">&nbsp;</a>  to learn more about what I do!</p>
+<p>I'm a Computer Engineer and a Full Stack Web developer, Check out all my projects here <a href="https://github.com/thefaraazkhan?tab=repositories" target="_blank">&nbsp;<img src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/link-512.png" width="20">&nbsp;</a></p>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/23261722/259833441-ca0763ac-b896-458c-aa79-2344e6c3cbb1.gif">
 
 
 <h3 align="left">🤝 Connect with me:</h3>
